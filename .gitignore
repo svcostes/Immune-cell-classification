@@ -1,0 +1,13 @@
+# Python environment (uv)
+.venv/
+__pycache__/
+*.pyc
+
+# Large raw imaging data — obtain from OSDR (OSD-1027) via src/download_from_osdr.py
+data/representative_images/
+
+# Generated outputs
+results/Output_MIP_panel_1/
+
+# Jupyter
+.ipynb_checkpoints/
